@@ -1,0 +1,469 @@
+<?xml version="1.0" ?>
+<spriter_data generator="BrashMonkey Spriter" generator_version="b5" scml_version="1.0">
+	<folder id="0" name="hairpigtails">
+		<file height="136" id="0" name="hairpigtails/hairpigtails-0.png" pivot_x="0.880889285714" pivot_y="0.584930147059" width="140"/>
+		<file height="128" id="1" name="hairpigtails/hairpigtails-1.png" pivot_x="0.16659765625" pivot_y="0.47969140625" width="128"/>
+		<file height="136" id="2" name="hairpigtails/hairpigtails-2.png" pivot_x="0.880889285714" pivot_y="0.584930147059" width="140"/>
+	</folder>
+	<folder id="1" name="arm_lower">
+		<file height="52" id="0" name="arm_lower/arm_lower-0.png" pivot_x="0.520517857143" pivot_y="0.841836538462" width="28"/>
+		<file height="64" id="1" name="arm_lower/arm_lower-1.png" pivot_x="0.551546875" pivot_y="0.8660234375" width="32"/>
+		<file height="40" id="2" name="arm_lower/arm_lower-2.png" pivot_x="0.7617109375" pivot_y="0.7100125" width="64"/>
+	</folder>
+	<folder id="2" name="arm_upper">
+		<file height="64" id="0" name="arm_upper/arm_upper-0.png" pivot_x="0.5206125" pivot_y="0.7789140625" width="40"/>
+		<file height="68" id="1" name="arm_upper/arm_upper-1.png" pivot_x="0.5462375" pivot_y="0.732727941176" width="40"/>
+		<file height="60" id="2" name="arm_upper/arm_upper-2.png" pivot_x="0.4874875" pivot_y="0.775008333333" width="40"/>
+		<file height="68" id="3" name="arm_upper/arm_upper-3.png" pivot_x="0.544875" pivot_y="0.777948529412" width="44"/>
+		<file height="44" id="4" name="arm_upper/arm_upper-4.png" pivot_x="0.5106125" pivot_y="0.690920454545" width="40"/>
+	</folder>
+	<folder id="3" name="hand">
+		<file height="44" id="0" name="hand/hand-0.png" pivot_x="0.48853125" pivot_y="0.795465909091" width="48"/>
+		<file height="52" id="1" name="hand/hand-1.png" pivot_x="0.463325" pivot_y="0.787028846154" width="60"/>
+		<file height="44" id="2" name="hand/hand-2.png" pivot_x="0.468740384615" pivot_y="0.767056818182" width="52"/>
+		<file height="44" id="3" name="hand/hand-3.png" pivot_x="0.539572916667" pivot_y="0.773306818182" width="48"/>
+		<file height="60" id="4" name="hand/hand-4.png" pivot_x="0.4308515625" pivot_y="0.781258333333" width="64"/>
+		<file height="40" id="5" name="hand/hand-5.png" pivot_x="0.535086538462" pivot_y="0.7462625" width="52"/>
+		<file height="64" id="6" name="hand/hand-6.png" pivot_x="0.693294642857" pivot_y="0.8230546875" width="56"/>
+		<file height="56" id="7" name="hand/hand-7.png" pivot_x="0.310258928571" pivot_y="0.841526785714" width="56"/>
+		<file height="56" id="8" name="hand/hand-8.png" pivot_x="0.239413461538" pivot_y="0.834383928571" width="52"/>
+		<file height="52" id="9" name="hand/hand-9.png" pivot_x="0.3218671875" pivot_y="0.765394230769" width="64"/>
+		<file height="64" id="10" name="hand/hand-10.png" pivot_x="0.447758928571" pivot_y="0.8070390625" width="56"/>
+	</folder>
+	<folder id="4" name="leg">
+		<file height="56" id="0" name="leg/leg-0.png" pivot_x="0.638520833333" pivot_y="0.882589285714" width="24"/>
+		<file height="56" id="1" name="leg/leg-1.png" pivot_x="0.646225" pivot_y="0.837508928571" width="20"/>
+		<file height="56" id="2" name="leg/leg-2.png" pivot_x="0.566225" pivot_y="0.876794642857" width="20"/>
+		<file height="56" id="3" name="leg/leg-3.png" pivot_x="0.701225" pivot_y="0.901785714286" width="20"/>
+		<file height="40" id="4" name="leg/leg-4.png" pivot_x="0.771579545455" pivot_y="0.8537625" width="44"/>
+		<file height="56" id="5" name="leg/leg-5.png" pivot_x="0.7012" pivot_y="0.908482142857" width="20"/>
+		<file height="48" id="6" name="leg/leg-6.png" pivot_x="0.878386363636" pivot_y="0.729177083333" width="44"/>
+		<file height="40" id="7" name="leg/leg-7.png" pivot_x="0.684013888889" pivot_y="0.8137625" width="36"/>
+		<file height="52" id="8" name="leg/leg-8.png" pivot_x="0.585395833333" pivot_y="0.939903846154" width="24"/>
+	</folder>
+	<folder id="5" name="foot">
+		<file height="36" id="0" name="foot/foot-0.png" pivot_x="0.840897727273" pivot_y="0.754180555556" width="44"/>
+		<file height="40" id="1" name="foot/foot-1.png" pivot_x="0.375556818182" pivot_y="0.8087625" width="44"/>
+		<file height="32" id="2" name="foot/foot-2.png" pivot_x="0.3124875" pivot_y="0.8703125" width="40"/>
+		<file height="36" id="3" name="foot/foot-3.png" pivot_x="0.822902777778" pivot_y="0.870833333333" width="36"/>
+		<file height="40" id="4" name="foot/foot-4.png" pivot_x="1.26525" pivot_y="0.5368875" width="36"/>
+		<file height="28" id="5" name="foot/foot-5.png" pivot_x="0.359079545455" pivot_y="0.963392857143" width="44"/>
+		<file height="36" id="6" name="foot/foot-6.png" pivot_x="0.7943625" pivot_y="0.906944444444" width="40"/>
+	</folder>
+	<folder id="6" name="torso">
+		<file height="96" id="0" name="torso/torso-0.png" pivot_x="0.502566176471" pivot_y="0.141411458333" width="68"/>
+		<file height="96" id="1" name="torso/torso-1.png" pivot_x="0.52655625" pivot_y="0.157557291667" width="80"/>
+		<file height="92" id="2" name="torso/torso-2.png" pivot_x="0.440782894737" pivot_y="0.153809782609" width="76"/>
+		<file height="104" id="3" name="torso/torso-3.png" pivot_x="0.4999921875" pivot_y="0.140629807692" width="64"/>
+		<file height="104" id="4" name="torso/torso-4.png" pivot_x="0.421125" pivot_y="0.159379807692" width="84"/>
+		<file height="100" id="5" name="torso/torso-5.png" pivot_x="0.556901315789" pivot_y="0.131005" width="76"/>
+		<file height="100" id="6" name="torso/torso-6.png" pivot_x="0.518375" pivot_y="0.129255" width="68"/>
+		<file height="100" id="7" name="torso/torso-7.png" pivot_x="0.589767045455" pivot_y="0.147755" width="88"/>
+		<file height="104" id="8" name="torso/torso-8.png" pivot_x="0.46780625" pivot_y="0.139668269231" width="80"/>
+		<file height="72" id="9" name="torso/torso-9.png" pivot_x="0.427440217391" pivot_y="0.3930625" width="92"/>
+	</folder>
+	<folder id="7" name="skirt">
+		<file height="60" id="0" name="skirt/skirt-0.png" pivot_x="0.503971590909" pivot_y="0.623758333333" width="88"/>
+		<file height="60" id="1" name="skirt/skirt-1.png" pivot_x="0.498005681818" pivot_y="0.623758333333" width="88"/>
+		<file height="60" id="2" name="skirt/skirt-2.png" pivot_x="0.572110576923" pivot_y="0.440841666667" width="104"/>
+		<file height="48" id="3" name="skirt/skirt-3.png" pivot_x="0.418120833333" pivot_y="0.311989583333" width="120"/>
+	</folder>
+	<folder id="8" name="headbase">
+		<file height="240" id="0" name="headbase/headbase-0.png" pivot_x="0.544883522727" pivot_y="0.148022916667" width="176"/>
+		<file height="232" id="1" name="headbase/headbase-1.png" pivot_x="0.611065104167" pivot_y="0.147200431034" width="192"/>
+		<file height="236" id="2" name="headbase/headbase-2.png" pivot_x="0.566895833333" pivot_y="0.151061440678" width="216"/>
+	</folder>
+	<folder id="9" name="face">
+		<file height="100" id="0" name="face/face-0.png" pivot_x="0.55585546875" pivot_y="0.655505" width="128"/>
+		<file height="92" id="1" name="face/face-1.png" pivot_x="0.564200757576" pivot_y="0.695657608696" width="132"/>
+		<file height="92" id="2" name="face/face-2.png" pivot_x="0.561689516129" pivot_y="0.707885869565" width="124"/>
+		<file height="96" id="3" name="face/face-3.png" pivot_x="0.564958333333" pivot_y="0.675526041667" width="132"/>
+		<file height="96" id="4" name="face/face-4.png" pivot_x="0.76499375" pivot_y="0.600786458333" width="80"/>
+		<file height="88" id="5" name="face/face-5.png" pivot_x="0.789198863636" pivot_y="0.670460227273" width="88"/>
+		<file height="84" id="6" name="face/face-6.png" pivot_x="0.771720238095" pivot_y="0.693458333333" width="84"/>
+		<file height="88" id="7" name="face/face-7.png" pivot_x="0.795918478261" pivot_y="0.659664772727" width="92"/>
+		<file height="100" id="8" name="face/face-8.png" pivot_x="0.55585546875" pivot_y="0.655505" width="128"/>
+		<file height="100" id="9" name="face/face-9.png" pivot_x="0.55585546875" pivot_y="0.665505" width="128"/>
+		<file height="104" id="10" name="face/face-10.png" pivot_x="0.55585546875" pivot_y="0.678370192308" width="128"/>
+		<file height="104" id="11" name="face/face-11.png" pivot_x="0.55585546875" pivot_y="0.619716346154" width="128"/>
+		<file height="116" id="12" name="face/face-12.png" pivot_x="0.517536290323" pivot_y="0.540952586207" width="124"/>
+		<file height="132" id="13" name="face/face-13.png" pivot_x="0.529817857143" pivot_y="0.54034469697" width="140"/>
+	</folder>
+	<folder id="10" name="cheeks">
+		<file height="60" id="0" name="cheeks/cheeks-0.png" pivot_x="0.5085859375" pivot_y="0.499591666667" width="64"/>
+		<file height="60" id="1" name="cheeks/cheeks-1.png" pivot_x="0.4617109375" pivot_y="0.482091666667" width="64"/>
+	</folder>
+	<folder id="11" name="headbase_hat">
+		<file height="192" id="0" name="headbase_hat/headbase_hat-0.png" pivot_x="0.542042613636" pivot_y="0.181122395833" width="176"/>
+		<file height="192" id="1" name="headbase_hat/headbase_hat-1.png" pivot_x="0.675869186047" pivot_y="0.139716145833" width="172"/>
+		<file height="208" id="2" name="headbase_hat/headbase_hat-2.png" pivot_x="0.533591145833" pivot_y="0.170555288462" width="192"/>
+	</folder>
+	<entity id="0" name="template">
+		<animation id="0" length="1000" name="BUILD_PLAYER">
+			<mainline>
+				<key id="0">
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.55585546875" abs_pivot_y="0.655505" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="9" id="0" key="0" name="face" timeline="0" z_index="178"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.542042613636" abs_pivot_y="0.181122395833" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="11" id="1" key="0" name="headbase_hat" timeline="1" z_index="174"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.544883522727" abs_pivot_y="0.148022916667" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="8" id="2" key="0" name="headbase" timeline="2" z_index="173"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.503971590909" abs_pivot_y="0.623758333333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="7" id="3" key="0" name="skirt" timeline="3" z_index="167"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.502566176471" abs_pivot_y="0.141411458333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="6" id="4" key="0" name="torso" timeline="4" z_index="165"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.840897727273" abs_pivot_y="0.754180555556" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="5" id="5" key="0" name="foot" timeline="5" z_index="164"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.840897727273" abs_pivot_y="0.754180555556" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="5" id="6" key="0" name="foot" timeline="6" z_index="162"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.638520833333" abs_pivot_y="0.882589285714" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="4" id="7" key="0" name="leg" timeline="7" z_index="161"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.638520833333" abs_pivot_y="0.882589285714" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="4" id="8" key="0" name="leg" timeline="8" z_index="158"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.48853125" abs_pivot_y="0.795465909091" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="3" id="9" key="0" name="hand" timeline="9" z_index="155"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.5206125" abs_pivot_y="0.7789140625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="2" id="10" key="0" name="arm_upper" timeline="10" z_index="153"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.520517857143" abs_pivot_y="0.841836538462" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="1" id="11" key="0" name="arm_lower" timeline="11" z_index="151"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.48853125" abs_pivot_y="0.795465909091" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="3" id="12" key="0" name="hand" timeline="12" z_index="149"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.5206125" abs_pivot_y="0.7789140625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="2" id="13" key="0" name="arm_upper" timeline="13" z_index="148"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.520517857143" abs_pivot_y="0.841836538462" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="1" id="14" key="0" name="arm_lower" timeline="14" z_index="147"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.463325" abs_pivot_y="0.787028846154" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="3" id="15" key="0" name="hand" timeline="15" z_index="141"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.5462375" abs_pivot_y="0.732727941176" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="2" id="16" key="0" name="arm_upper" timeline="16" z_index="140"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.551546875" abs_pivot_y="0.8660234375" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="1" id="17" key="0" name="arm_lower" timeline="17" z_index="139"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.880889285714" abs_pivot_y="0.584930147059" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="0" id="18" key="0" name="hairpigtails" timeline="18" z_index="135"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.16659765625" abs_pivot_y="0.47969140625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="0" id="19" key="0" name="hairpigtails" timeline="19" z_index="134"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.880889285714" abs_pivot_y="0.584930147059" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="0" id="20" key="0" name="hairpigtails" timeline="20" z_index="186"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.16659765625" abs_pivot_y="0.47969140625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="0" id="21" key="0" name="hairpigtails" timeline="21" z_index="185"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.498005681818" abs_pivot_y="0.623758333333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="7" id="22" key="0" name="skirt" timeline="22" z_index="172"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.518375" abs_pivot_y="0.129255" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="6" folder="6" id="23" key="0" name="torso" timeline="23" z_index="171"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.822902777778" abs_pivot_y="0.870833333333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="3" folder="5" id="24" key="0" name="foot" timeline="24" z_index="166"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.701225" abs_pivot_y="0.901785714286" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="3" folder="4" id="25" key="0" name="leg" timeline="25" z_index="165"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.822902777778" abs_pivot_y="0.870833333333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="3" folder="5" id="26" key="0" name="foot" timeline="26" z_index="163"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.701225" abs_pivot_y="0.901785714286" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="3" folder="4" id="27" key="0" name="leg" timeline="27" z_index="161"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.533591145833" abs_pivot_y="0.170555288462" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="11" id="28" key="0" name="headbase_hat" timeline="28" z_index="160"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.566895833333" abs_pivot_y="0.151061440678" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="8" id="29" key="0" name="headbase" timeline="29" z_index="159"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.566895833333" abs_pivot_y="0.151061440678" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="8" id="30" key="0" name="headbase" timeline="30" z_index="158"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.535086538462" abs_pivot_y="0.7462625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="5" folder="3" id="31" key="0" name="hand" timeline="31" z_index="155"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.5206125" abs_pivot_y="0.7789140625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="2" id="32" key="0" name="arm_upper" timeline="32" z_index="153"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.520517857143" abs_pivot_y="0.841836538462" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="1" id="33" key="0" name="arm_lower" timeline="33" z_index="151"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.535086538462" abs_pivot_y="0.7462625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="5" folder="3" id="34" key="0" name="hand" timeline="34" z_index="149"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.5206125" abs_pivot_y="0.7789140625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="2" id="35" key="0" name="arm_upper" timeline="35" z_index="148"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.520517857143" abs_pivot_y="0.841836538462" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="1" id="36" key="0" name="arm_lower" timeline="36" z_index="147"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.4308515625" abs_pivot_y="0.781258333333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="4" folder="3" id="37" key="0" name="hand" timeline="37" z_index="141"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.5462375" abs_pivot_y="0.732727941176" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="2" id="38" key="0" name="arm_upper" timeline="38" z_index="140"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.551546875" abs_pivot_y="0.8660234375" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="1" id="39" key="0" name="arm_lower" timeline="39" z_index="139"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.76499375" abs_pivot_y="0.600786458333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="4" folder="9" id="40" key="0" name="face" timeline="40" z_index="178"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.675869186047" abs_pivot_y="0.139716145833" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="11" id="41" key="0" name="headbase_hat" timeline="41" z_index="174"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.611065104167" abs_pivot_y="0.147200431034" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="8" id="42" key="0" name="headbase" timeline="42" z_index="173"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.468740384615" abs_pivot_y="0.767056818182" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="3" id="43" key="0" name="hand" timeline="43" z_index="165"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.4874875" abs_pivot_y="0.775008333333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="2" id="44" key="0" name="arm_upper" timeline="44" z_index="161"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.520517857143" abs_pivot_y="0.841836538462" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="1" id="45" key="0" name="arm_lower" timeline="45" z_index="158"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.503971590909" abs_pivot_y="0.623758333333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="7" id="46" key="0" name="skirt" timeline="46" z_index="156"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.4999921875" abs_pivot_y="0.140629807692" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="3" folder="6" id="47" key="0" name="torso" timeline="47" z_index="155"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.375556818182" abs_pivot_y="0.8087625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="5" id="48" key="0" name="foot" timeline="48" z_index="154"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.646225" abs_pivot_y="0.837508928571" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="4" id="49" key="0" name="leg" timeline="49" z_index="153"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.3124875" abs_pivot_y="0.8703125" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="5" id="50" key="0" name="foot" timeline="50" z_index="152"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.566225" abs_pivot_y="0.876794642857" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="4" id="51" key="0" name="leg" timeline="51" z_index="151"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.539572916667" abs_pivot_y="0.773306818182" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="3" folder="3" id="52" key="0" name="hand" timeline="52" z_index="149"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.4874875" abs_pivot_y="0.775008333333" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="2" id="53" key="0" name="arm_upper" timeline="53" z_index="148"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.520517857143" abs_pivot_y="0.841836538462" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="0" folder="1" id="54" key="0" name="arm_lower" timeline="54" z_index="147"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.463325" abs_pivot_y="0.787028846154" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="3" id="55" key="0" name="hand" timeline="55" z_index="141"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.5462375" abs_pivot_y="0.732727941176" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="2" id="56" key="0" name="arm_upper" timeline="56" z_index="140"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.551546875" abs_pivot_y="0.8660234375" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="1" id="57" key="0" name="arm_lower" timeline="57" z_index="139"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.880889285714" abs_pivot_y="0.584930147059" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="2" folder="0" id="58" key="0" name="hairpigtails" timeline="58" z_index="135"/>
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.16659765625" abs_pivot_y="0.47969140625" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="1" folder="0" id="59" key="0" name="hairpigtails" timeline="59" z_index="134"/>
+				</key>
+			</mainline>
+			<timeline id="0" name="face_0_0">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="9" id="0" scale_x="1.0" scale_y="1.0" x="-242.55" y="183.299"/>
+				</key>
+			</timeline>
+			<timeline id="1" name="headbase_hat_0_1">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="11" id="0" scale_x="1.0" scale_y="1.0" x="-248.0" y="120.099"/>
+				</key>
+			</timeline>
+			<timeline id="2" name="headbase_0_2">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="8" id="0" scale_x="1.0" scale_y="1.0" x="-248.0" y="120.099"/>
+				</key>
+			</timeline>
+			<timeline id="3" name="skirt_0_3">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="7" id="0" scale_x="1.0" scale_y="1.0" x="-249.25" y="44.299"/>
+				</key>
+			</timeline>
+			<timeline id="4" name="torso_0_4">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="6" id="0" scale_x="1.0" scale_y="1.0" x="-249.25" y="44.299"/>
+				</key>
+			</timeline>
+			<timeline id="5" name="foot_0_5">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="5" id="0" scale_x="-1.0" scale_y="1.0" x="-243.25" y="10.049"/>
+				</key>
+			</timeline>
+			<timeline id="6" name="foot_0_6">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="5" id="0" scale_x="1.0" scale_y="1.0" x="-255.549" y="10.049"/>
+				</key>
+			</timeline>
+			<timeline id="7" name="leg_0_7">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="4" id="0" scale_x="-1.0" scale_y="1.0" x="-243.25" y="40.049"/>
+				</key>
+			</timeline>
+			<timeline id="8" name="leg_0_8">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="4" id="0" scale_x="1.0" scale_y="1.0" x="-255.549" y="40.049"/>
+				</key>
+			</timeline>
+			<timeline id="9" name="hand_0_9">
+				<key id="0" spin="0">
+					<object angle="1.80990650262" file="0" folder="3" id="0" scale_x="0.994270440359" scale_y="0.994270440359" x="-289.399" y="53.299"/>
+				</key>
+			</timeline>
+			<timeline id="10" name="arm_upper_0_10">
+				<key id="0" spin="0">
+					<object angle="-21.0547035578" file="0" folder="2" id="0" scale_x="0.997732484" scale_y="0.997732484" x="-269.999" y="110.649"/>
+				</key>
+			</timeline>
+			<timeline id="11" name="arm_lower_0_11">
+				<key id="0" spin="0">
+					<object angle="-12.0078133374" file="0" folder="1" id="0" scale_x="0.995054370528" scale_y="0.995054370528" x="-282.499" y="81.749"/>
+				</key>
+			</timeline>
+			<timeline id="12" name="hand_0_12">
+				<key id="0" spin="0">
+					<object angle="-1.80990650262" file="0" folder="3" id="0" scale_x="-0.994270440359" scale_y="0.994270440359" x="-210.4" y="53.299"/>
+				</key>
+			</timeline>
+			<timeline id="13" name="arm_upper_0_13">
+				<key id="0" spin="0">
+					<object angle="21.0547035578" file="0" folder="2" id="0" scale_x="-0.997732484" scale_y="0.997732484" x="-229.8" y="110.649"/>
+				</key>
+			</timeline>
+			<timeline id="14" name="arm_lower_0_14">
+				<key id="0" spin="0">
+					<object angle="12.0078133374" file="0" folder="1" id="0" scale_x="-0.995054370528" scale_y="0.995054370528" x="-217.3" y="81.749"/>
+				</key>
+			</timeline>
+			<timeline id="15" name="hand_1_15">
+				<key id="0" spin="0">
+					<object angle="-80.5661014939" file="1" folder="3" id="0" scale_x="-0.993478132718" scale_y="-0.993478132718" x="-157.25" y="104.599"/>
+				</key>
+			</timeline>
+			<timeline id="16" name="arm_upper_1_16">
+				<key id="0" spin="0">
+					<object angle="61.0164084773" file="1" folder="2" id="0" scale_x="0.995619162699" scale_y="0.995619162699" x="-228.0" y="106.549"/>
+				</key>
+			</timeline>
+			<timeline id="17" name="arm_lower_1_17">
+				<key id="0" spin="0">
+					<object angle="-71.4159750865" file="1" folder="1" id="0" scale_x="-0.993629068435" scale_y="-0.993629068435" x="-196.35" y="89.899"/>
+				</key>
+			</timeline>
+			<timeline id="18" name="hairpigtails_0_18">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="0" id="0" scale_x="1.0" scale_y="1.0" x="-293.349" y="177.349"/>
+				</key>
+			</timeline>
+			<timeline id="19" name="hairpigtails_1_19">
+				<key id="0" spin="0">
+					<object angle="0.0" file="1" folder="0" id="0" scale_x="1.0" scale_y="1.0" x="-202.15" y="165.099"/>
+				</key>
+			</timeline>
+			<timeline id="20" name="hairpigtails_0_20">
+				<key id="0" spin="0">
+					<object angle="-4.53546551575" file="0" folder="0" id="0" scale_x="-0.999743161918" scale_y="0.999743161918" x="30.9" y="169.299"/>
+				</key>
+			</timeline>
+			<timeline id="21" name="hairpigtails_1_21">
+				<key id="0" spin="0">
+					<object angle="4.28549438312" file="1" folder="0" id="0" scale_x="-0.999743436147" scale_y="0.999743436147" x="-47.099" y="160.249"/>
+				</key>
+			</timeline>
+			<timeline id="22" name="skirt_1_22">
+				<key id="0" spin="0">
+					<object angle="0.0" file="1" folder="7" id="0" scale_x="1.0" scale_y="1.0" x="0.9" y="45.999"/>
+				</key>
+			</timeline>
+			<timeline id="23" name="torso_6_23">
+				<key id="0" spin="0">
+					<object angle="0.0" file="6" folder="6" id="0" scale_x="1.0" scale_y="1.0" x="0.9" y="45.999"/>
+				</key>
+			</timeline>
+			<timeline id="24" name="foot_3_24">
+				<key id="0" spin="0">
+					<object angle="0.0" file="3" folder="5" id="0" scale_x="1.0" scale_y="1.0" x="-6.699" y="11.699"/>
+				</key>
+			</timeline>
+			<timeline id="25" name="leg_3_25">
+				<key id="0" spin="0">
+					<object angle="0.0" file="3" folder="4" id="0" scale_x="1.0" scale_y="1.0" x="-6.699" y="41.699"/>
+				</key>
+			</timeline>
+			<timeline id="26" name="foot_3_26">
+				<key id="0" spin="0">
+					<object angle="0.0" file="3" folder="5" id="0" scale_x="-1.0" scale_y="1.0" x="4.9" y="11.299"/>
+				</key>
+			</timeline>
+			<timeline id="27" name="leg_3_27">
+				<key id="0" spin="0">
+					<object angle="0.0" file="3" folder="4" id="0" scale_x="-1.0" scale_y="1.0" x="4.9" y="41.299"/>
+				</key>
+			</timeline>
+			<timeline id="28" name="headbase_hat_2_28">
+				<key id="0" spin="0">
+					<object angle="3.51758908089" file="2" folder="11" id="0" scale_x="-0.999762567561" scale_y="0.999762567561" x="-2.949" y="123.849"/>
+				</key>
+			</timeline>
+			<timeline id="29" name="headbase_2_29">
+				<key id="0" spin="0">
+					<object angle="3.51758908089" file="2" folder="8" id="0" scale_x="-0.999762567561" scale_y="0.999762567561" x="-2.949" y="123.849"/>
+				</key>
+			</timeline>
+			<timeline id="30" name="headbase_2_30">
+				<key id="0" spin="0">
+					<object angle="3.51758908089" file="2" folder="8" id="0" scale_x="-0.999762567561" scale_y="0.999762567561" x="-2.949" y="123.849"/>
+				</key>
+			</timeline>
+			<timeline id="31" name="hand_5_31">
+				<key id="0" spin="0">
+					<object angle="-10.0328552812" file="5" folder="3" id="0" scale_x="-0.991836433295" scale_y="0.991836433295" x="43.75" y="54.399"/>
+				</key>
+			</timeline>
+			<timeline id="32" name="arm_upper_0_32">
+				<key id="0" spin="0">
+					<object angle="28.6661043113" file="0" folder="2" id="0" scale_x="-0.997299758378" scale_y="0.997299758378" x="16.7" y="109.999"/>
+				</key>
+			</timeline>
+			<timeline id="33" name="arm_lower_0_33">
+				<key id="0" spin="0">
+					<object angle="16.34271874" file="0" folder="1" id="0" scale_x="-0.994433403933" scale_y="0.994433403933" x="33.95" y="82.249"/>
+				</key>
+			</timeline>
+			<timeline id="34" name="hand_5_34">
+				<key id="0" spin="0">
+					<object angle="10.5660258079" file="5" folder="3" id="0" scale_x="0.992242271989" scale_y="0.992242271989" x="-41.649" y="52.249"/>
+				</key>
+			</timeline>
+			<timeline id="35" name="arm_upper_0_35">
+				<key id="0" spin="0">
+					<object angle="-24.8551060925" file="0" folder="2" id="0" scale_x="0.997517074677" scale_y="0.997517074677" x="-17.699" y="108.199"/>
+				</key>
+			</timeline>
+			<timeline id="36" name="arm_lower_0_36">
+				<key id="0" spin="0">
+					<object angle="-15.8092442" file="0" folder="1" id="0" scale_x="0.994829399813" scale_y="0.994829399813" x="-32.099" y="80.199"/>
+				</key>
+			</timeline>
+			<timeline id="37" name="hand_4_37">
+				<key id="0" spin="0">
+					<object angle="80.7713566114" file="4" folder="3" id="0" scale_x="0.991780454763" scale_y="-0.991780454763" x="-90.099" y="95.149"/>
+				</key>
+			</timeline>
+			<timeline id="38" name="arm_upper_1_38">
+				<key id="0" spin="0">
+					<object angle="-60.0353826219" file="1" folder="2" id="0" scale_x="-0.996605609062" scale_y="1.03314714064" x="-18.099" y="105.449"/>
+				</key>
+			</timeline>
+			<timeline id="39" name="arm_lower_1_39">
+				<key id="0" spin="0">
+					<object angle="79.1615450267" file="1" folder="1" id="0" scale_x="1.00118541795" scale_y="-1.07550609406" x="-49.749" y="87.499"/>
+				</key>
+			</timeline>
+			<timeline id="40" name="face_4_40">
+				<key id="0" spin="0">
+					<object angle="0.0" file="4" folder="9" id="0" scale_x="1.0" scale_y="1.0" x="306.85" y="183.899"/>
+				</key>
+			</timeline>
+			<timeline id="41" name="headbase_hat_1_41">
+				<key id="0" spin="0">
+					<object angle="0.0" file="1" folder="11" id="0" scale_x="1.0" scale_y="1.0" x="263.0" y="120.699"/>
+				</key>
+			</timeline>
+			<timeline id="42" name="headbase_1_42">
+				<key id="0" spin="0">
+					<object angle="0.0" file="1" folder="8" id="0" scale_x="1.0" scale_y="1.0" x="263.0" y="120.699"/>
+				</key>
+			</timeline>
+			<timeline id="43" name="hand_2_43">
+				<key id="0" spin="0">
+					<object angle="-1.77972639488" file="2" folder="3" id="0" scale_x="0.99171347035" scale_y="1.0214430482" x="220.501" y="51.199"/>
+				</key>
+			</timeline>
+			<timeline id="44" name="arm_upper_2_44">
+				<key id="0" spin="0">
+					<object angle="-19.3710953504" file="2" folder="2" id="0" scale_x="1.01697806508" scale_y="1.14002162365" x="236.701" y="120.849"/>
+				</key>
+			</timeline>
+			<timeline id="45" name="arm_lower_0_45">
+				<key id="0" spin="0">
+					<object angle="-5.95968671213" file="0" folder="1" id="0" scale_x="0.994880201864" scale_y="1.15320549613" x="224.251" y="85.699"/>
+				</key>
+			</timeline>
+			<timeline id="46" name="skirt_0_46">
+				<key id="0" spin="0">
+					<object angle="0.0" file="0" folder="7" id="0" scale_x="1.0" scale_y="1.0" x="251.65" y="42.999"/>
+				</key>
+			</timeline>
+			<timeline id="47" name="torso_3_47">
+				<key id="0" spin="0">
+					<object angle="0.0" file="3" folder="6" id="0" scale_x="1.0" scale_y="1.0" x="251.65" y="42.999"/>
+				</key>
+			</timeline>
+			<timeline id="48" name="foot_1_48">
+				<key id="0" spin="0">
+					<object angle="0.0" file="1" folder="5" id="0" scale_x="1.0" scale_y="1.06289672852" x="246.701" y="11.499"/>
+				</key>
+			</timeline>
+			<timeline id="49" name="leg_1_49">
+				<key id="0" spin="0">
+					<object angle="0.0" file="1" folder="4" id="0" scale_x="1.0" scale_y="1.06289672852" x="246.701" y="43.999"/>
+				</key>
+			</timeline>
+			<timeline id="50" name="foot_2_50">
+				<key id="0" spin="0">
+					<object angle="0.0" file="2" folder="5" id="0" scale_x="1.0" scale_y="1.06289672852" x="253.9" y="16.349"/>
+				</key>
+			</timeline>
+			<timeline id="51" name="leg_2_51">
+				<key id="0" spin="0">
+					<object angle="0.0" file="2" folder="4" id="0" scale_x="1.0" scale_y="1.06289672852" x="253.9" y="48.849"/>
+				</key>
+			</timeline>
+			<timeline id="52" name="hand_3_52">
+				<key id="0" spin="0">
+					<object angle="22.9465795074" file="3" folder="3" id="0" scale_x="0.991597962692" scale_y="0.991597962692" x="271.0" y="52.699"/>
+				</key>
+			</timeline>
+			<timeline id="53" name="arm_upper_2_53">
+				<key id="0" spin="0">
+					<object angle="1.73957199583" file="2" folder="2" id="0" scale_x="0.996138150147" scale_y="1.15760747751" x="260.4" y="121.149"/>
+				</key>
+			</timeline>
+			<timeline id="54" name="arm_lower_0_54">
+				<key id="0" spin="0">
+					<object angle="15.0792885801" file="0" folder="1" id="0" scale_x="1.00832229631" scale_y="1.14073484709" x="261.45" y="83.399"/>
+				</key>
+			</timeline>
+			<timeline id="55" name="hand_1_55">
+				<key id="0" spin="0">
+					<object angle="-83.4905623971" file="1" folder="3" id="0" scale_x="-0.993311784293" scale_y="-0.993311784293" x="331.2" y="102.599"/>
+				</key>
+			</timeline>
+			<timeline id="56" name="arm_upper_1_56">
+				<key id="0" spin="0">
+					<object angle="61.0164084773" file="1" folder="2" id="0" scale_x="0.995619162699" scale_y="0.995619162699" x="259.45" y="109.299"/>
+				</key>
+			</timeline>
+			<timeline id="57" name="arm_lower_1_57">
+				<key id="0" spin="0">
+					<object angle="-77.1730156997" file="1" folder="1" id="0" scale_x="-0.993293853126" scale_y="-0.993293853126" x="290.9" y="92.049"/>
+				</key>
+			</timeline>
+			<timeline id="58" name="hairpigtails_2_58">
+				<key id="0" spin="0">
+					<object angle="10.1115005732" file="2" folder="0" id="0" scale_x="1.00489042009" scale_y="0.939875875022" x="220.951" y="152.449"/>
+				</key>
+			</timeline>
+			<timeline id="59" name="hairpigtails_1_59">
+				<key id="0" spin="0">
+					<object angle="18.1204367381" file="1" folder="0" id="0" scale_x="-0.766483651648" scale_y="0.766483651648" x="240.601" y="158.649"/>
+				</key>
+			</timeline>
+		</animation>
+	</entity>
+</spriter_data>
