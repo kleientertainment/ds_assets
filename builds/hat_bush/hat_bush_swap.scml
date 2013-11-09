@@ -8,7 +8,7 @@
 		<file height="448" id="4" name="swap_hat/swap_hat-4.png" pivot_x="0.492186298077" pivot_y="0.0818649553571" width="416"/>
 	</folder>
 	<entity id="0" name="hat_bush_swap">
-		<animation id="0" length="1000" name="BUILD">
+		<animation id="0" length="1000" name="BUILD_PLAYER">
 			<mainline>
 				<key id="0">
 					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.508977112676" abs_pivot_y="0.313463461538" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="3" folder="0" id="0" key="0" name="swap_hat" timeline="0" z_index="200"/>
