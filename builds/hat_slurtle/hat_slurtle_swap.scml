@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<spriter_data generator="BrashMonkey Spriter" generator_version="b5" scml_version="1.0">
+	<folder id="0" name="swap_hat">
+		<file height="260" id="0" name="swap_hat/swap_hat-0.png" pivot_x="0.524551339286" pivot_y="-0.118746153846" width="224"/>
+		<file height="268" id="1" name="swap_hat/swap_hat-1.png" pivot_x="0.689517307692" pivot_y="-0.0818059701493" width="260"/>
+		<file height="256" id="2" name="swap_hat/swap_hat-2.png" pivot_x="0.518747807018" pivot_y="-0.1274375" width="228"/>
+		<file height="268" id="3" name="swap_hat/swap_hat-3.png" pivot_x="0.516516071429" pivot_y="0.161475746269" width="280"/>
+	</folder>
+	<entity id="0" name="hat_slurtle_swap">
+		<animation id="0" length="1000" name="BUILD">
+			<mainline>
+				<key id="0">
+					<object_ref abs_a="1" abs_angle="360" abs_pivot_x="0.516516071429" abs_pivot_y="0.161475746269" abs_scale_x="1" abs_scale_y="1" abs_x="0" abs_y="0" file="3" folder="0" id="0" key="0" name="swap_hat" timeline="0" z_index="200"/>
+				</key>
+			</mainline>
+			<timeline id="0" name="swap_hat_3_0">
+				<key id="0" spin="0">
+					<object angle="0.0" file="3" folder="0" id="0" scale_x="0.776824951172" scale_y="0.776809692383" x="6.8" y="-6.4"/>
+				</key>
+			</timeline>
+		</animation>
+	</entity>
+</spriter_data>
